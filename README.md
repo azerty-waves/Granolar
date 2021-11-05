@@ -1,5 +1,8 @@
 # Granolar
 
+> Granolar : Granular synth based on machine learning (VAE)
+
+
 Granolar is a machine learning project that reconstructs grains of sound, it is executable with Python3.
 
 ## Installation
